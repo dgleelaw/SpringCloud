@@ -1,0 +1,15 @@
+spring:
+  profiles: dev
+  application:
+    name: springcloud-provider-dev
+---
+spring:
+  profiles: test
+  application:
+    name: springcloud-provider-test
+---
+spring:
+  profiles: pro
+  application:
+    name: springcloud-provider-pro
+---
