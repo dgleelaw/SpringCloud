@@ -1,6 +1,6 @@
 
 server:
-  port: 7500         #当前服务的端口号
+  port: 7400         #当前服务的端口号
 
 spring:
   profiles: dev
